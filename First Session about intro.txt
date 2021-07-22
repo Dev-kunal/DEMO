@@ -1,15 +1,14 @@
-first intro
+#first intro
 Hello my name is kunal. im a BCA graduate and a fullstack Web developer. as a Web developer I have worked on technologies like MongoDb,express,react and Node. I have also created some complex projects in mern stack  like Ecom app Video library app and also a social media app.
 
-After Breakout
+#After Breakout
 Hello im kunal, a BCA graduate and A fullstack web developer. 
 I have been coding from last four years. 
 Most recently i was a part of Web dev bootcamp where i learn about React,redux, express ,mongodb nodejs and a also about typescript and tsting.
 as a aprt of this camp i have created several projects like a css component library ,ecom app,video app and a socail media app which are fullstack along with authentication and all.
 Alongside coding i love raod trips and do treks in monsoon.
 
-final before recording video
-
+#final before recording video
 
 
 A Story :
