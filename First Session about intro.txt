@@ -1,0 +1,21 @@
+first intro
+Hello my name is kunal. im a BCA graduate and a fullstack Web developer. as a Web developer I have worked on technologies like MongoDb,express,react and Node. I have also created some complex projects in mern stack  like Ecom app Video library app and also a social media app.
+
+After Breakout
+Hello im kunal, a BCA graduate and A fullstack web developer. 
+I have been coding from last four years. 
+Most recently i was a part of Web dev bootcamp where i learn about React,redux, express ,mongodb nodejs and a also about typescript and tsting.
+as a aprt of this camp i have created several projects like a css component library ,ecom app,video app and a socail media app which are fullstack along with authentication and all.
+Alongside coding i love raod trips and do treks in monsoon.
+
+final before recording video
+
+
+
+A Story :
+I first started my coding journey with electronics, followed by becoming a startup enthusiast who has given a shot at entrepreneurship, and became an avid learner, who loves finding shortcuts to the most complex problems. I am now a full-stack dev who loves creating, building & designing stuff from scratch up, with the focus on experimenting with different experiments!
+
+A uniqueness
+Hi My name is Janaki.I have been working in React extensively for the past 6 months.I have built a kit for carnatic music.The apps are ecommerce ,videolib,social media.I have used my own CL to design few of my apps.Along with react I am also exposed to typescript and Redux
+
+
